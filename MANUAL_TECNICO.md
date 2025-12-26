@@ -473,7 +473,7 @@ class Estimacion(models.Model):
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/JhosepSF/VacaMetric-Project-Front.git
+git clone https://github.com/MiguelValles80/VacaMetric-Project-Front.git
 cd VacaMetric-Project-Front
 
 # Instalar dependencias
@@ -490,7 +490,7 @@ npx expo start
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/JhosepSF/VacaMetric-Project-Back.git
+git clone https://github.com/MiguelValles80/VacaMetric-Project-Back.git
 cd VacaMetric-Project-Back
 
 # Crear entorno virtual
