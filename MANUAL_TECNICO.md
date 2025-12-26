@@ -694,4 +694,4 @@ _(Pueden agregarse diagramas UML, secuencia, etc.)_
 
 **Versión**: 1.0  
 **Fecha**: Diciembre 2024  
-**Autor**: Jhosep SF
+**Autor**: Miguel Angel Valles Coral
