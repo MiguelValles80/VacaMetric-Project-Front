@@ -124,19 +124,19 @@ Front/
 ## 📱 Capturas de Pantalla
 
 🎥 **Demo del sistema**  
-[Ver video](evidencia/demo.mp4) _(Próximamente)_
+[Ver video](evidencia/demo.mp4) 
+
+### Pantalla de Inicio
+![Pantalla de inicio](evidencia/a.jpeg)
 
 ### Pantalla de Captura
-![Pantalla de captura](evidencia/a.jpeg)
+![Pantalla de captura](evidencia/b.jpeg)
 
-### Registro de Datos
-![Registro de datos](evidencia/b.jpeg)
+### Confirmacion de Captura
+![Confirmacion](evidencia/c.jpeg)
 
 ### Resultados de Estimación
-![Resultados](evidencia/c.jpeg)
-
-### Historial
-![Historial](evidencia/d.jpeg)
+![Resultados](evidencia/d.jpeg)
 
 ## 🐛 Solución de Problemas
 
