@@ -124,7 +124,7 @@ Front/
 ## 📱 Capturas de Pantalla
 
 🎥 **Demo del sistema**  
-[Ver video en Google Drive](https://drive.google.com/file/d/1zJOoT0bfRDd2UgzFJjzk44qvxXqGYTj9/view?usp=sharing) 
+[Ver video en YouTube](https://youtube.com/shorts/A9nyYvHjHFc?feature=share) 
 
 ### Pantalla de Inicio
 <img src="evidencia/a.jpeg" width="300">
