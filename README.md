@@ -122,7 +122,21 @@ Front/
 - **Expo Image Picker**: Selección de imágenes
 
 ## 📱 Capturas de Pantalla
-_(Agregar capturas de pantalla de la aplicación)_
+
+🎥 **Demo del sistema**  
+[Ver video](evidencia/demo.mp4) _(Próximamente)_
+
+### Pantalla de Captura
+![Pantalla de captura](evidencia/a.jpeg)
+
+### Registro de Datos
+![Registro de datos](evidencia/b.jpeg)
+
+### Resultados de Estimación
+![Resultados](evidencia/c.jpeg)
+
+### Historial
+![Historial](evidencia/d.jpeg)
 
 ## 🐛 Solución de Problemas
 
