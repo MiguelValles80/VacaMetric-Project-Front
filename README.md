@@ -4,8 +4,8 @@
 Aplicación móvil desarrollada en React Native con Expo para la estimación del peso de ganado bovino mediante análisis de imágenes usando inteligencia artificial.
 
 ## 🚀 Repositorios del Proyecto
-- **Frontend (App Móvil)**: https://github.com/JhosepSF/VacaMetric-Project-Front
-- **Backend (Modelos IA)**: https://github.com/JhosepSF/VacaMetric-Project-Back
+- **Frontend (App Móvil)**: https://github.com/MiguelValles80/VacaMetric-Project-Front
+- **Backend (Modelos IA)**: https://github.com/MiguelValles80/VacaMetric-Project-Back
 
 ## 📋 Requisitos Previos
 
@@ -26,7 +26,7 @@ http://192.168.100.7:8000
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/JhosepSF/VacaMetric-Project-Front.git
+git clone https://github.com/MiguelValles80/VacaMetric-Project-Front.git
 cd VacaMetric-Project-Front
 ```
 
@@ -140,7 +140,7 @@ npm install
 ```
 
 ## 👥 Autor
-Jhosep SF
+Miguel Angel Valles Coral
 
 ## 📄 Licencia
 Este proyecto es parte de un trabajo académico.
