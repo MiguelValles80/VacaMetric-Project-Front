@@ -127,16 +127,16 @@ Front/
 [Ver video](evidencia/demo.mp4) 
 
 ### Pantalla de Inicio
-![Pantalla de inicio](evidencia/a.jpeg)
+<img src="evidencia/a.jpeg" width="300">
 
 ### Pantalla de Captura
-![Pantalla de captura](evidencia/b.jpeg)
+<img src="evidencia/b.jpeg" width="300">
 
 ### Confirmacion de Captura
-![Confirmacion](evidencia/c.jpeg)
+<img src="evidencia/c.jpeg" width="300">
 
 ### Resultados de Estimación
-![Resultados](evidencia/d.jpeg)
+<img src="evidencia/d.jpeg" width="300">
 
 ## 🐛 Solución de Problemas
 
