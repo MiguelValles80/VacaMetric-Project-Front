@@ -334,11 +334,11 @@ Sí, funciona con ganado bovino en general, aunque fue optimizado principalmente
 
 Si tienes problemas que no se resuelven con este manual:
 
-📧 **Email**: _(Agregar email de soporte)_  
-📱 **WhatsApp**: _(Agregar número de soporte)_  
+📧 **Email**: miguel.valles@unmsm.edu.pe
+📱 **WhatsApp**: 942023414 
 🌐 **Repositorio**: 
-- Frontend: https://github.com/JhosepSF/VacaMetric-Project-Front
-- Backend: https://github.com/JhosepSF/VacaMetric-Project-Back
+- Frontend: https://github.com/MiguelValles80/VacaMetric-Project-Front
+- Backend: https://github.com/MiguelValles80/VacaMetric-Project-Back
 
 ### Reportar un error
 
@@ -411,4 +411,4 @@ Estamos comprometidos en mejorar continuamente la aplicación para brindarte el 
 
 **Versión del Manual**: 1.0  
 **Fecha**: Diciembre 2024  
-**Desarrollado por**: Jhosep SF
+**Desarrollado por**: Miguel Angel Valles Coral
